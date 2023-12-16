@@ -1,3 +1,5 @@
+! [headshot] (octat-random.png)
+
 This repisotory is a part of my thesis study to detect negation on biomedial corpus with DL methods. 
 Repisotory has two py script which is responsible to
   1. Collect the articles by simple web scraping applied to a spesific web page https://dergipark.org.tr/tr/.
