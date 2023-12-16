@@ -1,4 +1,4 @@
-! [headshot] (octocat-random.png)
+![headshot](octocat-random.png)
 
 This repisotory is a part of my thesis study to detect negation on biomedial corpus with DL methods. 
 
