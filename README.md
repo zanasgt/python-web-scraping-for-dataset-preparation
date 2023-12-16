@@ -1,4 +1,4 @@
-! [headshot] (octat-random.png)
+![headshot] (octat-random.png)
 
 This repisotory is a part of my thesis study to detect negation on biomedial corpus with DL methods. 
 Repisotory has two py script which is responsible to
